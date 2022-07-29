@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @k2168298
-- 👀 I’m interested in database and data warehouse
+- 👀 I’m interested in Machine learning, Neural network, Database, and data warehouse. 
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Database Administration
+- 💞️ I’m looking to collaborate on Machine learning. 
 - 📫 How to reach me k2168298@kingston.ac.uk
 
 <!---
